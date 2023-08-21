@@ -1,2 +1,5 @@
-gcsfile/*
-translate/*
+gcsfile/postgres
+translate/spark
+translate/hive
+translate/spark2
+translate/bigquery
