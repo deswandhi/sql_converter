@@ -1,0 +1,9 @@
+source_dialect: "postgres"
+
+target_dialect: "spark2"
+
+scenario:
+  - MainJobScenario1
+  - MainJobScenario4
+  - MainJobScenario7
+  - MainJobScenario10
